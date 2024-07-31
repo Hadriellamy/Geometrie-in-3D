@@ -1,0 +1,3 @@
+uring my second year of studies, I developed a Java project titled "Geometries Form in 3D using Light Reflection and Refraction". The project aimed to create 3D representations of geometries utilizing advanced light reflection and refraction techniques. To enhance image quality, I implemented anti-aliasing methods such as super sampling and adaptive sampling, which optimized rendering and produced a more realistic visual effect.
+
+The project also incorporated development principles such as RDD (Resilient Distributed Datasets) and DRY (Don't Repeat Yourself) to ensure efficient code management and easier maintenance. Unit tests were conducted using JUnit 4 to ensure the robustness and reliability of the system.
