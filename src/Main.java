@@ -2,13 +2,7 @@ import primitives.*;
 import static java.lang.System.out;
 import static primitives.Util.*;
 
-/**
- * Test program for the 1st stage
- *
- * @author Dan Zilberstein
- * @author Yoel Obadia 1413422 yoel.obadia.yo@gmail.com
- * @author Jerry Halfon 1325129 halfoncj1@gmail.com
- */
+
 public final class Main {
 
     /**
